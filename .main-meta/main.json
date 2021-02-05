@@ -4,26 +4,26 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.atmega4809-getting-started-with-spi-studio",
-        "version": "",
-        "displayName": "",
+        "version": "1.0.0",
+        "displayName": "Getting Started with SPI",
         "projectName": "atmega4809-getting-started-with-spi-studio",
-        "shortDescription": "",
+        "shortDescription": "This repository contains the MCC generated source code examples described in TB3215-Getting Started with Serial Peripheral Interface(SPI)",
         "ide": {
             "name": "STUDIO",
-            "semverRange": ""
+            "semverRange": ">=7.0.2542"
         },
         "compiler": [
 			{
-				"name": "",
-				"semverRange": ""
+				"name": "avr-gcc",
+				"semverRange": "^5.4.0"
 			}
 		],
         "dfp": {
-            "name": "",
-            "semverRange": ""
+            "name": "ATmega_DFP",
+            "semverRange": "^1.6.364"
         },
         "configurator": {
-            "name": "",
+            "name": "N/A",
             "semverRange": ""
         },
         "device": {
@@ -32,16 +32,23 @@
             "content": {
                 "metaDataVersion": "1.0.0",
                 "category": "com.microchip.device",
-                "name": "",
+                "name": "ATmega4809",
                 "versionRange": "*"
             }
         },
         "author": "",
         "subcategories": [
+            [
+                "Peripherals",
+                "SPI"
+            ],
+            [
+                "ATmega4809 Xplained Pro"
+            ]
         ],
-        "peripherals": [
+        "peripherals": [ "SPI"
         ],
-        "keywords": [
+        "keywords": [ "Getting Started", "exchange", "Bare Metal"
         ],
 		"additionalData": {
 			"longDescription": {
