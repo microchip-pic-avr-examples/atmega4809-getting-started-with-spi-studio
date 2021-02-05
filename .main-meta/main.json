@@ -41,7 +41,7 @@
             [
                 "Peripherals",
                 "SPI"
-            ],
+            ]
         ],
         "peripherals": [ "SPI"
         ],
