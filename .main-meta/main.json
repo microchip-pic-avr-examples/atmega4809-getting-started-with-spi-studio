@@ -42,9 +42,6 @@
                 "Peripherals",
                 "SPI"
             ],
-            [
-                "ATmega4809 Xplained Pro"
-            ]
         ],
         "peripherals": [ "SPI"
         ],
