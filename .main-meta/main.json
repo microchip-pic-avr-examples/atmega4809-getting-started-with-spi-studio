@@ -45,7 +45,7 @@
         ],
         "peripherals": [ "SPI"
         ],
-        "keywords": [ "Getting Started", "exchange", "Bare Metal"
+        "keywords": [ "Getting Started", "Bare Metal"
         ],
 		"additionalData": {
 			"longDescription": {
