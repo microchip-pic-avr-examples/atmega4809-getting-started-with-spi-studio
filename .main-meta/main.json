@@ -4,10 +4,10 @@
     "content": {
         "metaDataVersion": "1.1.0",
         "name": "com.microchip.mcu8.studio.project.atmega4809-getting-started-with-spi-studio",
-        "version": "1.0.0",
-        "displayName": "Getting Started with SPI",
+        "version": "1.0.1",
+        "displayName": "Getting Started with Serial Peripheral Interface (SPI)",
         "projectName": "atmega4809-getting-started-with-spi-studio",
-        "shortDescription": "This repository contains the MCC generated source code examples described in TB3215-Getting Started with Serial Peripheral Interface(SPI)",
+        "shortDescription": "This repository contains the Microchip Studio code examples described in TB3215-Getting Started with Serial Peripheral Interface(SPI)",
         "ide": {
             "name": "STUDIO",
             "semverRange": ">=7.0.2542"

@@ -2,7 +2,7 @@
 
 # Getting Started with Serial Peripheral Interface (SPI) Examples (Microchip Studio)
 
-  This repository contains examples of bare metal source code for Serial Peripheral Interface (SPI) as described in [TB3215-Getting Started with Serial Peripheral Interface (SPI)](https://ww1.microchip.com/downloads/en/AppNotes/TB3215-Getting-Started-with-SPI-90003215A.pdf) document from Microchip. The repository contains a Microchip Studio Solution with multiple projects inside:
+  This repository contains examples of bare metal source code for Serial Peripheral Interface (SPI) as described in [TB3215-Getting Started with Serial Peripheral Interface (SPI)](https://ww1.microchip.com/downloads/en/Appnotes/TB3215-Getting-Started-with-SPI-DS90003215.pdf) document from Microchip. The repository contains a Microchip Studio Solution with multiple projects inside:
 
   * [<strong>Sending Data as Host:</strong>](Sending_Data_as_Host) This example demonstrates how to configure the device in SPI Host mode and send dummy data (value 0) (for more details, see [<strong>Sending Data as Host</strong>](Sending_Data_as_Host)).
   * [<strong>Changing Data Transfer Type:</strong>](Changing_Data_Transfer_Type) This example demonstrates how to configure the device in SPI Host mode and to send data with respect to the clock polarity and the clock phase, in data mode 3 (for more details, see [<strong>Changing Data Transfer Type</strong>](Changing_Data_Transfer_Type)).
@@ -10,7 +10,7 @@
 
 ## Related Documentation
 More details and code examples on the ATMEGA4809 can be found at the following links:
-- [TB3215-Getting Started with Serial Peripheral Interface (SPI)](https://ww1.microchip.com/downloads/en/AppNotes/TB3215-Getting-Started-with-SPI-90003215A.pdf)
+- [TB3215-Getting Started with Serial Peripheral Interface (SPI)](https://ww1.microchip.com/downloads/en/Appnotes/TB3215-Getting-Started-with-SPI-DS90003215.pdf)
 - [ATMEGA4809 Product Page](https://www.microchip.com/wwwproducts/en/ATMEGA4809)
 - [ATMEGA4809 Code Examples on GitHub](https://github.com/microchip-pic-avr-examples?q=atmega4809)
 - [ATMEGA4809 Project Examples in START](https://start.atmel.com/#examples/ATMEGA4809XplainedPro)
